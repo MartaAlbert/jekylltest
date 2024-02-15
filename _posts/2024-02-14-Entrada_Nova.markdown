@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plantillapage
 title: "Post nou"
 date: 2024-02-15 
 categories: jekyll update

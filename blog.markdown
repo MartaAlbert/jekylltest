@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: plantillablog
 title: Blog
-permalink: /blog/
+
 ---
 
-Pàgina nou anomenada blog
+Pàgina que direcciona a
 [google](https://google.es)

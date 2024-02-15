@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plantillablog
 title:  "Benvinguts!!"
 date:   2024-02-15 19:13:21 +0100
 categories: jekyll update
